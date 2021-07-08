@@ -1,0 +1,6 @@
+This is write mode in php.
+Let's talk about mode in php.
+Let's talk r+ and w+ mode in php.
+Let's talk about append mode in php.
+Let's talk about append mode in php.
+Let's talk about append mode in php.
